@@ -1,8 +1,6 @@
 TpepTwoForTeachers3
 ===================
 
-TpepTwoForTeachers
-==================
 
 TpepTwo ... 
 
