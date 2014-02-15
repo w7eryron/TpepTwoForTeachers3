@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TpepTwo</string>
+    <string name="title_activity_log_item">LogItemActivity</string>
+    <string name="log_item_title_hint">Enter a title for this new item.</string>
+    <string name="log_item_details_hint">Enter a description for this new item.</string>
+    <string name="log_item_title_label">Title</string>
+    <string name="log_item_details_label">Description</string>
+    <string name="logItems_title">LogItems</string>
+    <string name="date_picker_title">Date of Log Item</string>
+</resources>
