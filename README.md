@@ -34,7 +34,9 @@ mDocTitle - title for a supporting document ... may someday become a list
 
 mDocLink - link for supporting document - TBD ... ditto
 
-mPhoto - FUTURE TBD - no clue how to do this yet, may be able to follow BigNerd example
+mPhoto - - no clue how to do this yet, may be able to follow BigNerd example
+
+mTask -  a variaable to use to sort the various tasks that I will record - TBD
 
 ++++++++++++++++++++++++++++++++++++++++++++ 
 
@@ -51,7 +53,7 @@ five buttons:
   
   toggle list view between "sort by date" and "sort by criteria" - TBD
   
-  send entire file to someone via email, probably several ways - TBD
+  send entire file to someone via email, probably several ways - done 2/17
   
   take a photo - TBD, probably following BigNerd
   
